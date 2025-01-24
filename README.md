@@ -56,17 +56,13 @@ Follow these steps to get the Tic-Tac-Toe game up and running on your local mach
 1. Clone the Repository
 
 ```   
-Bash
-
-   git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/your-username/tic-tac-toe.git
 ```   
 
 2. Navigate to the Project Directory
 
 ```   
-Bash
-
-   cd tic-tac-toe
+cd tic-tac-toe
 ```   
 
 3. Install Dependencies
@@ -74,19 +70,15 @@ Bash
    It's recommended to use a virtual environment.
 
 ```   
-Bash
-
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
 ```  
 
 4. Run the Game
 
 ```   
-Bash
-
-   python tic_tac_toe.py
+python tic_tac_toe.py
 ```   
 
 ```
