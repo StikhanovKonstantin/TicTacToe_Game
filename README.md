@@ -13,6 +13,7 @@
 - Учёт очков: отслеживание побед, поражений и ничьих.
 
 ## Демонстрация
+![image](https://github.com/user-attachments/assets/7cac4a44-a4c7-4325-a53e-cc44db0dd73b)
 
 
 
