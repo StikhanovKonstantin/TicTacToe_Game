@@ -31,7 +31,7 @@
 
    
 ```
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone git@github.com:StikhanovKonstantin/tictactoe_game.git
 ```
 
 2. Перейти в каталог проекта:
